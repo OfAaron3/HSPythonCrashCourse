@@ -4,7 +4,7 @@ Short Python course over two days aimed at high school students. Done through Ju
 
 Exoplanets.ipynb:
 
-	The day 2 excercise. Using data to find things about exoplanets.
+	The day two excercise. Using data to find things about exoplanets.
 
 Exoplanets_Partial_Solutions.ipynb:
 
@@ -12,7 +12,7 @@ Exoplanets_Partial_Solutions.ipynb:
 
 IntroductionToPython.ipynb:
 
-	The day 1 material. Designed to let the students familiarise themselves with Python.
+	The day one material. Designed to let the students familiarise themselves with Python.
 
 PythonJupyter.pdf:
 
