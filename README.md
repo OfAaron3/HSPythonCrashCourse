@@ -17,3 +17,11 @@ IntroductionToPython.ipynb:
 PythonJupyter.pdf:
 
 	Presentation slides.
+
+planets-db-info.txt:
+
+	Basically a header for the csv.
+
+planets.csv:
+
+	Data on several exoplanets.
